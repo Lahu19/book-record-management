@@ -1,0 +1,31 @@
+{
+  "name": "book-record-management",
+  "version": "1.0.0",
+  "description": "Book Record Managemnt Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lahu19/book-record-management.git"
+  },
+  "author": "Laha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lahu19/book-record-management/issues"
+  },
+  "homepage": "https://github.com/Lahu19/book-record-management",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "moongose": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "keywords": [
+    "book-record-management"
+  ]
+}
